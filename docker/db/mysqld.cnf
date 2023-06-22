@@ -1,0 +1,7 @@
+[mysqld]
+tmp_table_size=4G
+max_heap_table_size=4G
+max_allowed_packet=4G
+wait_timeout=16000
+connect_timeout=120
+table_open_cache=250
